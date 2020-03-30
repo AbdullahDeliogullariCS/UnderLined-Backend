@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "mocha --forbid-only --color",
+    "test": "mocha --forbid-only --color --recursive",
     "start": "nodemon app.js"
   },
   "author": "",
